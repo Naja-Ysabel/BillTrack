@@ -1,0 +1,18 @@
+{
+  "id": "billtrack",
+  "name": "BillTrack — Household Bills & Subscriptions",
+  "short_name": "BillTrack",
+  "description": "Personal household bills and subscription manager.",
+  "start_url": "index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f6f2e9",
+  "theme_color": "#1f5a45",
+  "categories": ["finance", "productivity"],
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

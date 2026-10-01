@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">BillTrack</title>
+  <desc id="desc">A bill document with a payment checkmark and coin</desc>
+  <rect width="64" height="64" rx="16" fill="#1f5a45"/>
+  <path d="M18 13.5h21l8 8v29H18z" fill="#fffdf8" stroke="#fffdf8" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M39 13.5v9h8" fill="none" stroke="#1f5a45" stroke-width="2.5" stroke-linejoin="round"/>
+  <path d="M24 28.5h13M24 34h8" fill="none" stroke="#8fae9b" stroke-width="2.8" stroke-linecap="round"/>
+  <circle cx="38" cy="43" r="9" fill="#c49a4a"/>
+  <path d="m33.5 43 3 3 6-6" fill="none" stroke="#fffdf8" stroke-width="2.7" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
